@@ -1,0 +1,149 @@
+.w {
+    width: 1200px;
+    margin: 0 auto;
+
+}
+
+.register_head {
+    border-bottom: 3px solid red;
+}
+
+.logo {
+    padding-top: 10px;
+}
+
+.box {
+    height: 520px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+
+.box .box_head {
+    height: 40px;
+    border-bottom: 1px solid #ccc;
+    line-height: 40px;
+
+}
+
+.zhuche {
+    float: left;
+    font-size: 18px;
+    padding-left: 5px;
+}
+
+.denglu {
+    float: right;
+    font-size: 14px;
+    padding-right: 5px;
+}
+
+.style_red {
+    color: red;
+}
+
+.style_green {
+    color: green;
+}
+
+
+.box_body {
+    width: 600px;
+    margin: 30px auto 0;
+
+
+}
+
+.box_body ul li {
+    margin-bottom: 30px;
+}
+
+
+.box_body ul li label {
+    width: 80px;
+    display: inline-block;
+    text-align: right;
+
+}
+
+.box_body ul li .inp {
+    width: 200px;
+    height: 25px;
+    border: 1px solid #ccc;
+}
+
+.error_icon {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    background: url(../images/error.png) no-repeat;
+}
+
+.success_icon {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    background: url(../images/success.png) no-repeat;
+}
+
+.safe {
+    padding-left: 200px;
+}
+
+.safe em {
+    padding: 0 12px;
+    color: #fff;
+}
+
+.ruo {
+    background-color: green;
+}
+
+.zhong {
+    background-color: blue;
+
+}
+
+.qiang {
+    background-color: red;
+
+}
+
+.agree {
+    padding-left: 100px;
+}
+
+.agree input {
+    vertical-align: middle;
+}
+
+.style_skyblue {
+    color: skyblue;
+}
+
+.btn {
+    height: 50px;
+    width: 170px;
+    background-color: red;
+    font-size: 14px;
+    color: #fff;
+}
+
+.zhuche {
+    padding-left: 170px;
+}
+
+.mod_copyright {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.mod_copyright p {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.mod_copyright p span {
+    margin: 0 6px;
+}

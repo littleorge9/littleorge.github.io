@@ -1,0 +1,51 @@
+.sk {
+    position: absolute;
+    left: 185px;
+    top: 40px;
+    border-left: 1px solid #b3181c;
+    padding: 3px 0 0 14px;
+}
+
+.list_nav_left ul li {
+    float: left;
+}
+
+.list_nav_left ul li a {
+    display: block;
+    height: 47px;
+    line-height: 47px;
+    padding-left: 35px;
+    font-size: 16px;
+    font-weight: 700;
+
+}
+
+.list_nav_right ul li {
+    float: left;
+}
+
+.list_nav_right ul li a {
+    display: block;
+    height: 47px;
+    line-height: 47px;
+    padding-left: 35px;
+    font-size: 14px;
+
+}
+
+.sk_bd ul li {
+    overflow: hidden;
+    float: left;
+    width: 290px;
+    height: 460px;
+    border: 1px solid transparent;
+    margin-right: 13px;
+}
+
+.sk_bd ul li:hover {
+    border: 1px solid #b3181c;
+}
+
+.sk_bd ul li:nth-child(4n) {
+    margin-right: 0;
+}
